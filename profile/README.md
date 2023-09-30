@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img height="380em"  width="800em"src="https://github.com/fakeStudent130/.github/assets/76932249/65b0f0a0-b9a2-43bc-85b1-4f40758bf354"/>
+  <img height="400px"  width="1000px"src="https://i.pinimg.com/originals/4e/15/a9/4e15a9e296c03c97c417335a2fbe8f93.gif"/>
  
 </div>
 
