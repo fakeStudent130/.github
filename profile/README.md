@@ -17,10 +17,10 @@ Berikut adalah beberapa proyek terbaru yang sedang kami kerjakan:
 
 
 📚 Dokumentasi
-Kami sangat peduli tentang dokumentasi yang baik. Jika Anda ingin mengetahui lebih lanjut tentang proyek-proyek kami, lihat dokumentasi kami di [dokumentasi]().
+Kami sangat peduli tentang dokumentasi yang baik. Jika Anda ingin mengetahui lebih lanjut tentang proyek-proyek kami, lihat dokumentasi kami di [-------------](--------------).
 
 🙋‍♂️ Bergabung dengan Kami
-Kami selalu terbuka untuk kolaborasi dan dukungan. Jika Anda tertarik untuk bergabung dengan tim kami atau berkontribusi pada proyek-proyek kami, jangan ragu untuk menghubungi kami di [email@organisasi.com](----------------).
+Kami selalu terbuka untuk kolaborasi dan dukungan. Jika Anda tertarik untuk bergabung dengan tim kami atau berkontribusi pada proyek-proyek kami, jangan ragu untuk menghubungi kami di [-------------------](----------------).
 
 📞 Hubungi Kami
 Jika Anda memiliki pertanyaan atau ingin menghubungi kami, silakan hubungi kami melalui:
